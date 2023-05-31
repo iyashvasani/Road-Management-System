@@ -9,5 +9,5 @@
 ![Smart Street Light System](SMART_STREET_LIGHT_SYSTEM/IMG-2480.jpg)
 
 ## Toll Management System
-![Toll Management System](TOLL_MANAGEMENT_SYSTEML/IMG-2511.jpg)
+![Toll Management System](TOLL_MANAGEMENT_SYSTEM/IMG-2511.jpg)
 
